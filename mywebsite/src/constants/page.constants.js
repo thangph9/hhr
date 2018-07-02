@@ -1,0 +1,4 @@
+export const pageConstants={
+    SWITCH_VIEW: 'SWITCH_VIEW',
+    UPDATE_PREVIEW_THUMBNAIL: 'UPDATE_PREVIEW_THUMBNAIL',
+}
